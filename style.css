@@ -99,6 +99,7 @@ p {
   width: 100%;
   padding: 13px;
   background: hsl(71, 73%, 54%);
+  cursor: pointer;
 }
 
 .right {
